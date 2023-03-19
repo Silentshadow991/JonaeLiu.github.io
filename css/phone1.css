@@ -1,0 +1,50 @@
+/* Navbar*/
+.navbar ul{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+/* headings */
+.heading{
+    font-size: 1.6rem;
+}
+/* Gallery Images */
+.gallery{
+    width: 270px;
+    height: 360px;
+}
+/* About Section*/
+.about{
+    flex-direction: column;
+}
+.about h2{
+    text-align: center;
+}
+.about img{
+    width: 200px;
+    height: 150px;
+    padding:0px 15px;
+}
+/* Message box */
+#message{
+    width: 40%;
+    height: 200px;
+}
+/* boxes */
+.box{
+    height: 150px;
+    width: 250px;
+    background-color: blue;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 10px;
+  }
+  .box h2{
+  color: orange;
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+  
+  }
+  .box p{
+    color: azure;
+    font-size: .8rem;
+  }
