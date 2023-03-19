@@ -7,7 +7,7 @@ html{
 }
 .main{
     width:100%;
-    background: url('/images/jonathan liu.jpg');
+    background: url('/images/jonathan liu.jpg')no-repeat center center/cover;
     background-position: center;
     background-size: cover;
     height: 100vh;
